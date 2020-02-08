@@ -1,0 +1,4 @@
+### Compras faltantes
+
+* Televisor
+* Bocinas
