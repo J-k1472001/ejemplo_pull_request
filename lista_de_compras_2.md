@@ -5,6 +5,3 @@
 * Maiz
 * Tomate
 * Galletas
-
-
-# COMPLETADA
